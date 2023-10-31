@@ -1,0 +1,12 @@
+{
+"setting": {
+"enabled": true
+},
+"dazhen": {
+    "path": "dz.glb",
+    "position": "[0, 0, 0]",
+    "scale": [0.5, 0.5, 0.5],
+    "transform": [0, 90, 0],
+    "visabled": true
+}
+}
